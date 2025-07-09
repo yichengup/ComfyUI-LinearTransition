@@ -1,0 +1,14 @@
+[project]
+name = "lineartransition"
+description = "This is a custom node designed for ComfyUI to create transition effects between two images and generate a sequence of video frames."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/yichengup/ComfyUI-LinearTransition"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-LinearTransition"
+Icon = ""
